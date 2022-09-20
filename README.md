@@ -8,3 +8,6 @@ Algo de lo que vas a poder encontrar es lo siguiente:
 
 1. Cálculo del interés compuesto
 2. Cálculo de combinatorias
+
+
+![](https://www.python.org/static/img/python-logo@2x.png)
