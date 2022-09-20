@@ -10,4 +10,7 @@ Algo de lo que vas a poder encontrar es lo siguiente:
 2. Cálculo de combinatorias
 
 
+[Guía Markdown](https://www.markdownguide.org/)
+
+
 ![](https://www.python.org/static/img/python-logo@2x.png)
